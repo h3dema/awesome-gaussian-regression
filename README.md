@@ -53,6 +53,7 @@ List of Gaussian regression papers and surveys
 | [Gaussian Process Regression - Machine Learning Class 10-701](https://www.youtube.com/watch?v=xP5dBw5cewg&t=692s) | Alex Smola | 2015 | |
 | [TimeSeriesAnalysis Using Gaussian Processes in Python & the Search for Earth 2.0](https://www.youtube.com/watch?v=WhoFbu9dBe0) | Dan Foreman-Mackey | 2014 | Cool talk about planets, but the analysis comes only at the last third of the presentation |
 | [Introduction to Gaussian process regression](https://www.youtube.com/watch?v=4vGiHC35j9s) | Nando de Freitas | 2013 |
+| [Regression with Gaussian processes](https://www.youtube.com/watch?v=MfHKW5z-OOA) | Nando de Freitas | 2013 |
 
 
 
