@@ -16,11 +16,13 @@ List of Gaussian regression papers and surveys
 * Wilson, A. G., Knowles, D. A., & Ghahramani, Z. (2011). Gaussian process regression networks. arXiv preprint arXiv:1110.4411. https://arxiv.org/pdf/1110.4411
 * Ranganathan, A., Yang, M. H., & Ho, J. (2010). Online sparse Gaussian process regression and its applications. IEEE Transactions on Image Processing, 20(2), 391-404. 
 * Hartikainen, J., & Särkkä, S. (2010, August). Kalman filtering and smoothing solutions to temporal Gaussian process regression models. In 2010 IEEE international workshop on machine learning for signal processing (pp. 379-384). IEEE.
-* Rasmussen, C. E. (2003, February). Gaussian processes in machine learning. In Summer School on Machine Learning (pp. 63-71). Springer, Berlin, Heidelberg.
-* Seeger, M. (2004). Gaussian processes for machine learning. International journal of neural systems, 14(02), 69-106.
+* Chen, T., & Ren, J. (2009). Bagging for Gaussian process regression. Neurocomputing, 72(7-9), 1605-1610.
 * Songthip T Ounpraseuth (2008) Gaussian Processes for Machine Learning, Journal of the American Statistical Association, 103:481, 429-429, DOI: 10.1198/jasa.2008.s219. https://doi.org/10.1198/jasa.2008.s219
 * Yu, K., Tresp, V., & Schwaighofer, A. (2005, August). Learning Gaussian processes from multiple tasks. In Proceedings of the 22nd international conference on Machine learning (pp. 1012-1019). https://dl.acm.org/doi/pdf/10.1145/1102351.1102479
 * Engel, Y., Mannor, S., & Meir, R. (2005, August). Reinforcement learning with Gaussian processes. In Proceedings of the 22nd international conference on Machine learning (pp. 201-208). https://dl.acm.org/doi/pdf/10.1145/1102351.1102377
+* Rasmussen, C. E. (2003, February). Gaussian processes in machine learning. In Summer School on Machine Learning (pp. 63-71). Springer, Berlin, Heidelberg.
+* Paciorek, C., & Schervish, M. (2003). Nonstationary covariance functions for Gaussian process regression. Advances in neural information processing systems, 16, 273-280.
+* Seeger, M. (2004). Gaussian processes for machine learning. International journal of neural systems, 14(02), 69-106.
 * MacKay, D. J. (1997). Gaussian processes-a replacement for supervised neural networks?.
 * Williams, C. K., & Rasmussen, C. E. (1996). Gaussian processes for regression. In Advances in neural information processing systems (pp. 514-520). https://proceedings.neurips.cc/paper/1995/file/7cce53cf90577442771720a370c3c723-Paper.pdf
 
