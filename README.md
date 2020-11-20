@@ -67,9 +67,13 @@ List of Gaussian regression papers and surveys
   
  ### In python
 
+* GPyTorch
+  - https://gpytorch.ai/
 * PyMC3
   - https://docs.pymc.io/Gaussian_Processes.html
 * Scikit-learn: https://scikit-learn.org/stable/modules/gaussian_process.html
+* George:
+  - Documentation: https://george.readthedocs.io/en/latest/
 * GPy: https://sheffieldml.github.io/GPy/
   - Documentation: https://gpy.readthedocs.io/en/devel/
 * Deep Gaussian Processes
@@ -81,6 +85,4 @@ List of Gaussian regression papers and surveys
 * Seikel, M., Clarkson, C., & Smith, M. (2013). Gapp: Gaussian processes in python. ascl, ascl-1303.
 * In tensorflow: tfp.distributions.GaussianProcessRegressionModel
   - https://www.tensorflow.org/probability/api_docs/python/tfp/distributions/GaussianProcessRegressionModel
-* GPyTorch
-  - https://gpytorch.ai/
   
