@@ -47,7 +47,7 @@ List of Gaussian regression papers and surveys
 | Name | Lecturer | Year | Comments |
 |------|----------|------|----------|
 | [A Primer on Gaussian Processes for Regression Analysis @ PyData](https://www.youtube.com/watch?v=j7Ruu3Yu-70) | Chris Fonnesbeck | 2019 | A tutorial on how to use PyMC3 with good examples at PyData NYC 2019 |
-| [Gaussian Process for Time Series Analysis](https://www.youtube.com/watch?v=0p_6RzhSZEc&t=1514s) | Juan Orduz | 2019 | |
+| [Gaussian Process for Time Series Analysis](https://www.youtube.com/watch?v=0p_6RzhSZEc&t=1514s) | Juan Orduz | 2019 | An introduction of GP at PyData 2019 in Berlin. Also show good references during the lecture. |
 | [Machine Learning Lecture 26 "Gaussian Processes" -Cornell CS4780 SP17](https://www.youtube.com/watch?v=R-NUdqxKjos) | Kilian Weinberger | 2018 | Nice lecture |
 | [ML Tutorial: Gaussian Processes](https://www.youtube.com/watch?v=92-98SYOdlY) | Richard Turner | 2016 | Nicely teached. |
 | [Gaussian Process Regression - Machine Learning Class 10-701](https://www.youtube.com/watch?v=xP5dBw5cewg&t=692s) | Alex Smola | 2015 | |
