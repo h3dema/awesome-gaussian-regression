@@ -3,24 +3,30 @@
 List of Gaussian regression papers and surveys
 
 * Swiler, L., Gulian, M., Frankel, A., Safta, C., & Jakeman, J. (2020). A Survey of Constrained Gaussian Process Regression: Approaches and Implementation Challenges. arXiv preprint arXiv:2006.09319. https://arxiv.org/pdf/2006.09319
-* Camps-Valls, G., Verrelst, J., Munoz-Mari, J., Laparra, V., Mateo-Jiménez, F., & Gómez-Dans, J. (2016). A survey on Gaussian processes for earth-observation data analysis: A comprehensive investigation. IEEE Geoscience and Remote Sensing Magazine, 4(2), 58-78. https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7487896
-* Vanhatalo, J., Riihimäki, J., Hartikainen, J., Jylänki, P., Tolvanen, V., & Vehtari, A. (2013). GPstuff: Bayesian modeling with Gaussian processes. Journal of Machine Learning Research, 14(Apr), 1175-1179. https://www.jmlr.org/papers/volume14/vanhatalo13a/vanhatalo13a.pdf
-* Sun, A. Y., Wang, D., & Xu, X. (2014). Monthly streamflow forecasting using Gaussian process regression. Journal of Hydrology, 511, 72-81. https://www.sciencedirect.com/science/article/pii/S0022169414000298
-* Guo, M., & Hesthaven, J. S. (2018). Reduced order modeling for nonlinear structural analysis using gaussian process regression. Computer methods in applied mechanics and engineering, 341, 807-826. https://www.sciencedirect.com/science/article/pii/S0045782518303487
-* Sarkka, S., Solin, A., & Hartikainen, J. (2013). Spatiotemporal learning via infinite-dimensional Bayesian filtering and smoothing: A look at Gaussian process regression through Kalman filtering. IEEE Signal Processing Magazine, 30(4), 51-61. https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6530736
-* Ranganathan, A., Yang, M. H., & Ho, J. (2010). Online sparse Gaussian process regression and its applications. IEEE Transactions on Image Processing, 20(2), 391-404. 
 * Liu, K., Hu, X., Wei, Z., Li, Y., & Jiang, Y. (2019). Modified Gaussian process regression models for cyclic capacity prediction of lithium-ion batteries. IEEE Transactions on Transportation Electrification, 5(4), 1225-1236. https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8853281
+* Kamath, A., Vargas-Hernández, R. A., Krems, R. V., Carrington Jr, T., & Manzhos, S. (2018). Neural networks vs Gaussian process regression for representing potential energy surfaces: A comparative study of fit quality and vibrational spectrum accuracy. The Journal of chemical physics, 148(24), 241702. https://aip.scitation.org/doi/full/10.1063/1.5003074
+  - Show that the GP fitting error is lower, and the GP spectrum is more accurate. Also they find that the GP surface produces a relatively accurate spectrum when obtained based on as few as 313 points.
+* Guo, M., & Hesthaven, J. S. (2018). Reduced order modeling for nonlinear structural analysis using gaussian process regression. Computer methods in applied mechanics and engineering, 341, 807-826. https://www.sciencedirect.com/science/article/pii/S0045782518303487
 * Bu, Y., & Pan, J. (2015). Stellar atmospheric parameter estimation using Gaussian process regression. Monthly Notices of the Royal Astronomical Society, 447(1), 256-265. https://academic.oup.com/mnras/article/447/1/256/2907952
+* Huang, W., Zhao, D., Sun, F., Liu, H., & Chang, E. (2015, June). Scalable gaussian process regression using deep neural networks. In Twenty-fourth international joint conference on artificial intelligence. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1032.9889&rep=rep1&type=pdf
+* Camps-Valls, G., Verrelst, J., Munoz-Mari, J., Laparra, V., Mateo-Jiménez, F., & Gómez-Dans, J. (2016). A survey on Gaussian processes for earth-observation data analysis: A comprehensive investigation. IEEE Geoscience and Remote Sensing Magazine, 4(2), 58-78. https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7487896
+* Sun, A. Y., Wang, D., & Xu, X. (2014). Monthly streamflow forecasting using Gaussian process regression. Journal of Hydrology, 511, 72-81. https://www.sciencedirect.com/science/article/pii/S0022169414000298
+* Vanhatalo, J., Riihimäki, J., Hartikainen, J., Jylänki, P., Tolvanen, V., & Vehtari, A. (2013). GPstuff: Bayesian modeling with Gaussian processes. Journal of Machine Learning Research, 14(Apr), 1175-1179. https://www.jmlr.org/papers/volume14/vanhatalo13a/vanhatalo13a.pdf
+* Sarkka, S., Solin, A., & Hartikainen, J. (2013). Spatiotemporal learning via infinite-dimensional Bayesian filtering and smoothing: A look at Gaussian process regression through Kalman filtering. IEEE Signal Processing Magazine, 30(4), 51-61. https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6530736
+* Wilson, A. G., Knowles, D. A., & Ghahramani, Z. (2011). Gaussian process regression networks. arXiv preprint arXiv:1110.4411. https://arxiv.org/pdf/1110.4411
+* Ranganathan, A., Yang, M. H., & Ho, J. (2010). Online sparse Gaussian process regression and its applications. IEEE Transactions on Image Processing, 20(2), 391-404. 
+* Hartikainen, J., & Särkkä, S. (2010, August). Kalman filtering and smoothing solutions to temporal Gaussian process regression models. In 2010 IEEE international workshop on machine learning for signal processing (pp. 379-384). IEEE.
 * Rasmussen, C. E. (2003, February). Gaussian processes in machine learning. In Summer School on Machine Learning (pp. 63-71). Springer, Berlin, Heidelberg.
 * Seeger, M. (2004). Gaussian processes for machine learning. International journal of neural systems, 14(02), 69-106.
 * Songthip T Ounpraseuth (2008) Gaussian Processes for Machine Learning, Journal of the American Statistical Association, 103:481, 429-429, DOI: 10.1198/jasa.2008.s219. https://doi.org/10.1198/jasa.2008.s219
 * Yu, K., Tresp, V., & Schwaighofer, A. (2005, August). Learning Gaussian processes from multiple tasks. In Proceedings of the 22nd international conference on Machine learning (pp. 1012-1019). https://dl.acm.org/doi/pdf/10.1145/1102351.1102479
 * Engel, Y., Mannor, S., & Meir, R. (2005, August). Reinforcement learning with Gaussian processes. In Proceedings of the 22nd international conference on Machine learning (pp. 201-208). https://dl.acm.org/doi/pdf/10.1145/1102351.1102377
+* MacKay, D. J. (1997). Gaussian processes-a replacement for supervised neural networks?.
+* Williams, C. K., & Rasmussen, C. E. (1996). Gaussian processes for regression. In Advances in neural information processing systems (pp. 514-520). https://proceedings.neurips.cc/paper/1995/file/7cce53cf90577442771720a370c3c723-Paper.pdf
 
 ## Books
 
 * Gramacy, R. B. (2020). Surrogates: Gaussian Process Modeling, Design, and Optimization for the Applied Sciences. CRC Press.
-* Bovier, A. (2017). Gaussian processes on trees: From spin glasses to branching Brownian motion (Vol. 163). Cambridge University Press. https://www.uni-due.de/~hm0110/teaching/so15/gaussian_ff/lec-notes.pdf
 * Kocijan, J. (2016). Modelling and control of dynamic systems using Gaussian process models. Springer International Publishing.
 * Lifshits, M. (2012). Lectures on Gaussian processes. In Lectures on Gaussian Processes (pp. 1-117). Springer, Berlin, Heidelberg.
 * Ibragimov, I. A., & Rozanov, Y. A. E. (2012). Gaussian random processes. Springer Science & Business Media.
