@@ -30,14 +30,16 @@ List of Gaussian regression papers and surveys
 
 ## Books
 
-* Gramacy, R. B. (2020). Surrogates: Gaussian Process Modeling, Design, and Optimization for the Applied Sciences. CRC Press.
-* Kocijan, J. (2016). Modelling and control of dynamic systems using Gaussian process models. Springer International Publishing.
-* Lifshits, M. (2012). Lectures on Gaussian processes. In Lectures on Gaussian Processes (pp. 1-117). Springer, Berlin, Heidelberg.
-* Ibragimov, I. A., & Rozanov, Y. A. E. (2012). Gaussian random processes. Springer Science & Business Media.
-* Shi, J. Q., & Choi, T. (2011). Gaussian process regression analysis for functional data. CRC Press.
-* Ounpraseuth, S. T. (2008). Gaussian processes for machine learning.
-* Dym, H., & McKean, H. P. (2008). Gaussian processes, function theory, and the inverse spectral problem. Courier Corporation.
-* Williams, C. K., & Rasmussen, C. E. (2005). Gaussian processes for machine learning. Cambridge, MA: MIT press.
+* Gramacy, R. B. (2020). **Surrogates: Gaussian Process Modeling, Design, and Optimization for the Applied Sciences**. CRC Press.
+* Kocijan, J. (2016). **Modelling and control of dynamic systems using Gaussian process models**. Springer International Publishing.
+  - The main contribution of this book (for me) is in Chapter 4, which describes control methods based on GP models that were already published in the literature.
+* Lifshits, M. (2012). **Lectures on Gaussian processes**. In Lectures on Gaussian Processes (pp. 1-117). Springer, Berlin, Heidelberg.
+  - The book can be grouped into two blocks. The first chapters show essentials of the classical theory of Gaussian processes, while the later chapters present important issues, such as small deviations, expansions, and quantization of processes.
+* Ibragimov, I. A., & Rozanov, Y. A. E. (2012). **Gaussian random processes**. Springer Science & Business Media.
+* Shi, J. Q., & Choi, T. (2011). **Gaussian process regression analysis for functional data**. CRC Press.
+* Ounpraseuth, S. T. (2008). **Gaussian processes for machine learning**.
+* Dym, H., & McKean, H. P. (2008). **Gaussian processes, function theory, and the inverse spectral problem**. Courier Corporation.
+* Williams, C. K., & Rasmussen, C. E. (2005). **Gaussian processes for machine learning**. Cambridge, MA: MIT press.
   - My personal favorite book on the topic.
 
 ## Videos
