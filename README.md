@@ -42,15 +42,15 @@ List of Gaussian regression papers and surveys
 
 ## Videos
 
-| Name | Lecturer | Year |
-|------|----------|------|
-| [A Primer on Gaussian Processes for Regression Analysis](https://www.youtube.com/watch?v=xBE8qdAAj3w&t=1307s) | Chris Fonnesbeck | 2020 |
-| [A Primer on Gaussian Processes for Regression Analysis @ PyData](https://www.youtube.com/watch?v=j7Ruu3Yu-70) | Chris Fonnesbeck | 2019 |
-| [Gaussian Process for Time Series Analysis](https://www.youtube.com/watch?v=0p_6RzhSZEc&t=1514s) | Juan Orduz | 2019 |
-| [Machine Learning Lecture 26 "Gaussian Processes" -Cornell CS4780 SP17](https://www.youtube.com/watch?v=R-NUdqxKjos) | Kilian Weinberger | 2018 |
-| [ML Tutorial: Gaussian Processes](https://www.youtube.com/watch?v=92-98SYOdlY) | Richard Turner | 2016 |
-| [Gaussian Process Regression - Machine Learning Class 10-701](https://www.youtube.com/watch?v=xP5dBw5cewg&t=692s) | Alex Smola | 2015 |
-| [TimeSeriesAnalysis Using Gaussian Processes in Python & the Search for Earth 2.0](https://www.youtube.com/watch?v=WhoFbu9dBe0) | Dan Foreman-Mackey | 2014 |
+| Name | Lecturer | Year | Comments |
+|------|----------|------|----------|
+| [A Primer on Gaussian Processes for Regression Analysis](https://www.youtube.com/watch?v=xBE8qdAAj3w&t=1307s) | Chris Fonnesbeck | 2020 | |
+| [A Primer on Gaussian Processes for Regression Analysis @ PyData](https://www.youtube.com/watch?v=j7Ruu3Yu-70) | Chris Fonnesbeck | 2019 | |
+| [Gaussian Process for Time Series Analysis](https://www.youtube.com/watch?v=0p_6RzhSZEc&t=1514s) | Juan Orduz | 2019 | |
+| [Machine Learning Lecture 26 "Gaussian Processes" -Cornell CS4780 SP17](https://www.youtube.com/watch?v=R-NUdqxKjos) | Kilian Weinberger | 2018 | |
+| [ML Tutorial: Gaussian Processes](https://www.youtube.com/watch?v=92-98SYOdlY) | Richard Turner | 2016 | |
+| [Gaussian Process Regression - Machine Learning Class 10-701](https://www.youtube.com/watch?v=xP5dBw5cewg&t=692s) | Alex Smola | 2015 | |
+| [TimeSeriesAnalysis Using Gaussian Processes in Python & the Search for Earth 2.0](https://www.youtube.com/watch?v=WhoFbu9dBe0) | Dan Foreman-Mackey | 2014 | Cool talk about planets, but the analysis comes only at the last third of the presentation |
 | [Introduction to Gaussian process regression](https://www.youtube.com/watch?v=4vGiHC35j9s) | Nando de Freitas | 2013 |
 
 
