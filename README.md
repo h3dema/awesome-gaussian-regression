@@ -20,6 +20,7 @@ List of Gaussian regression papers and surveys
 ## Books
 
 * Gramacy, R. B. (2020). Surrogates: Gaussian Process Modeling, Design, and Optimization for the Applied Sciences. CRC Press.
+* Bovier, A. (2017). Gaussian processes on trees: From spin glasses to branching Brownian motion (Vol. 163). Cambridge University Press. https://www.uni-due.de/~hm0110/teaching/so15/gaussian_ff/lec-notes.pdf
 * Kocijan, J. (2016). Modelling and control of dynamic systems using Gaussian process models. Springer International Publishing.
 * Lifshits, M. (2012). Lectures on Gaussian processes. In Lectures on Gaussian Processes (pp. 1-117). Springer, Berlin, Heidelberg.
 * Ibragimov, I. A., & Rozanov, Y. A. E. (2012). Gaussian random processes. Springer Science & Business Media.
