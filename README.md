@@ -29,6 +29,21 @@ List of Gaussian regression papers and surveys
 * Williams, C. K., & Rasmussen, C. E. (2005). Gaussian processes for machine learning. Cambridge, MA: MIT press.
   - My personal favorite book on the topic.
 
+## Videos
+
+| Name | Lecturer | Year |
+|------|----------|------|
+| [A Primer on Gaussian Processes for Regression Analysis](https://www.youtube.com/watch?v=xBE8qdAAj3w&t=1307s) | Chris Fonnesbeck | 2020 |
+| [A Primer on Gaussian Processes for Regression Analysis @ PyData](https://www.youtube.com/watch?v=j7Ruu3Yu-70) | Chris Fonnesbeck | 2019 |
+| [Gaussian Process for Time Series Analysis](https://www.youtube.com/watch?v=0p_6RzhSZEc&t=1514s) | Juan Orduz | 2019 |
+| [Machine Learning Lecture 26 "Gaussian Processes" -Cornell CS4780 SP17](https://www.youtube.com/watch?v=R-NUdqxKjos) | Kilian Weinberger | 2018 |
+| [ML Tutorial: Gaussian Processes](https://www.youtube.com/watch?v=92-98SYOdlY) | Richard Turner | 2016 |
+| [Gaussian Process Regression - Machine Learning Class 10-701](https://www.youtube.com/watch?v=xP5dBw5cewg&t=692s) | Alex Smola | 2015 |
+| [TimeSeriesAnalysis Using Gaussian Processes in Python & the Search for Earth 2.0](https://www.youtube.com/watch?v=WhoFbu9dBe0) | Dan Foreman-Mackey | 2014 |
+| [Introduction to Gaussian process regression](https://www.youtube.com/watch?v=4vGiHC35j9s) | Nando de Freitas | 2013 |
+
+
+
 ## Tools
 
 * De G. Matthews, A. G., Van Der Wilk, M., Nickson, T., Fujii, K., Boukouvalas, A., León-Villagrá, P., ... & Hensman, J. (2017). GPflow: A Gaussian process library using TensorFlow. The Journal of Machine Learning Research, 18(1), 1299-1304.
@@ -39,7 +54,9 @@ List of Gaussian regression papers and surveys
   - Library for Matlab: http://www.gaussianprocess.org/gpml/code/matlab/doc/
   
  ### In python
- 
+
+* PyMC3
+  - https://docs.pymc.io/Gaussian_Processes.html
 * Scikit-learn: https://scikit-learn.org/stable/modules/gaussian_process.html
 * GPy: https://sheffieldml.github.io/GPy/
   - Documentation: https://gpy.readthedocs.io/en/devel/
@@ -49,5 +66,9 @@ List of Gaussian regression papers and surveys
   - https://github.com/mackelab/gp-maps-python
 * Neumann, M., Huang, S., Marthaler, D. E., & Kersting, K. (2015). pygps: A python library for gaussian process regression and classification. The Journal of Machine Learning Research, 16(1), 2611-2616.
 * de Wolff, T., Cuevas, A., & Tobar, F. (2020). MOGPTK: The Multi-Output Gaussian Process Toolkit. arXiv preprint arXiv:2002.03471.
+* Seikel, M., Clarkson, C., & Smith, M. (2013). Gapp: Gaussian processes in python. ascl, ascl-1303.
 * In tensorflow: tfp.distributions.GaussianProcessRegressionModel
   - https://www.tensorflow.org/probability/api_docs/python/tfp/distributions/GaussianProcessRegressionModel
+* GPyTorch
+  - https://gpytorch.ai/
+  
