@@ -54,8 +54,11 @@ List of Gaussian regression papers and surveys
 | [TimeSeriesAnalysis Using Gaussian Processes in Python & the Search for Earth 2.0](https://www.youtube.com/watch?v=WhoFbu9dBe0) | Dan Foreman-Mackey | 2014 | Cool talk about planets, but the analysis comes only at the last third of the presentation |
 | [Introduction to Gaussian process regression](https://www.youtube.com/watch?v=4vGiHC35j9s) | Nando de Freitas | 2013 | Well detailed introduction to GP. |
 | [Regression with Gaussian processes](https://www.youtube.com/watch?v=MfHKW5z-OOA) | Nando de Freitas | 2013 | Regression |
-| [Introduction to Gaussian processes]() | Mauricio Alvarez Lopez | 2020 | |
-
+| [Introduction to Gaussian processes](https://www.youtube.com/watch?v=GWHE5vnpxks) | Mauricio Alvarez Lopez | 2020 | |
+| [Introduction to Deep GPs](https://www.youtube.com/watch?v=eS_na-6ZlCI) | - | 2020 | |
+| [Gaussian Processes and Non-Gaussian Likelihoods](https://www.youtube.com/watch?v=vAM4P3hIyuY) | Alan Saul | 2020 | |
+| [Deep Gaussian processes](https://www.youtube.com/watch?v=apq-hrzB-sM) | Neil Lawrence | 2020 |  |
+| [Constraining Gaussian Processes by Variational Fourier Features](https://www.youtube.com/watch?v=LGACTGyiBt4) | Arno Solin | 2019 | |
 
 ## Tools
 
